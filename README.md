@@ -1,53 +1,17 @@
-endpoint IP:PORT Packet loss rate  LOSS average latency  DELAY
-endpoint 162.159.192.211:7559 Packet loss rate 60.00% average latency 699 ms
-endpoint 162.159.195.102:7156 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.195.106:7559 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.195.107:7559 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.195.142:7156 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.195.51:7559 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.195.54:7156 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.195.54:7559 Packet loss rate 60.00% average latency 706 ms
-endpoint 188.114.96.117:7559 Packet loss rate 60.00% average latency 706 ms
-endpoint 188.114.96.118:7559 Packet loss rate 60.00% average latency 706 ms
-endpoint 162.159.192.45:7156 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.192.51:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.195.138:7156 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.195.142:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.195.172:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.195.1:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.195.58:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.195.5:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 188.114.96.118:7156 Packet loss rate 60.00% average latency 707 ms
-endpoint 188.114.96.120:7559 Packet loss rate 60.00% average latency 707 ms
-endpoint 162.159.192.211:7156 Packet loss rate 60.00% average latency 716 ms
-endpoint 162.159.192.101:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.110:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.118:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.150:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.152:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.158:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.16:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.18:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.18:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.226:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.231:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.237:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.251:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.254:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.79:7559 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.86:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.195.58:7156 Packet loss rate 60.00% average latency 717 ms
-endpoint 162.159.192.101:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.107:7156 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.107:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.110:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.118:7156 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.11:7156 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.11:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.124:7156 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.124:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.125:7156 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.125:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.129:7156 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.129:7559 Packet loss rate 60.00% average latency 718 ms
-endpoint 162.159.192.133:7156 Packet loss rate 60.00% average latency 718 ms                       endpoint 162.159.192.13:7559 # AliEshraghi
+vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@172.66.47.74:443?security=tls&sni=s11.xyzquant.cloud&fp=chrome&type=ws&path=/6eenmFpORi4fyf8bW&host=s11.xyzquant.cloud&encryption=none#@ToYoTA_PRoXY-1
+
+vless://04bb51b3-ea82-4f3a-b37c-a188d8c9acff@85.198.13.138:2093?security=&type=tcp&encryption=none#@ToYoTA_PRoXY-2
+
+vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@172.64.147.114:2052?security=&type=ws&path=/?ed%3D2048&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&encryption=none#@ToYoTA_PRoXY-3
+
+vless://437c4845-0271-468e-a84e-5023d25c0011@190.93.247.155:8443?security=tls&sni=hf.v2raystore.sbs&fp=chrome&type=ws&path=/&host=hf.v2raystore.sbs&encryption=none#@ToYoTA_PRoXY-4
+
+vless://768e854b-2498-48e5-f8af-7011bfddc9fc@47.252.35.253:11329?security=&type=ws&path=/&encryption=none#@ToYoTA_PRoXY-5
+
+vless://04bb51b3-ea82-4f3a-b37c-a188d8c9acff@85.198.13.138:2093?security=&type=tcp&encryption=none#@ToYoTA_PRoXY-6
+
+vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@172.64.147.114:2052?security=&type=ws&path=/?ed%3D2048&host=Xmrdark.%F0%9F%91%BD%F0%9F%91%BD%F0%9F%91%BD.V2ray.%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.radiotehran.tech.&encryption=none#@ToYoTA_PRoXY-7
+
+vless://437c4845-0271-468e-a84e-5023d25c0011@190.93.247.155:8443?security=tls&sni=hf.v2raystore.sbs&fp=chrome&type=ws&path=/&host=hf.v2raystore.sbs&encryption=none#@ToYoTA_PRoXY-8
+
+vless://768e854b-2498-48e5-f8af-7011bfddc9fc@47.252.35.253:11329?security=&type=ws&path=/&encryption=none#@ToYoTA_PRoXY-9
